@@ -1,2 +1,2 @@
 # Netflix Data Analysis Project
-[Netflix Logo]()
+[Netflix Logo](logo.png)

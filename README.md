@@ -1,1 +1,1 @@
-# netflix_data_analytics_with_SQL
+# Netflix Data Analysis Project
